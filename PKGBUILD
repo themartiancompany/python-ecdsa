@@ -3,7 +3,7 @@
 
 pkgname=python-ecdsa
 pkgver=0.18.0
-pkgrel=3
+pkgrel=4
 pkgdesc="Implementation of ECDSA in Python"
 arch=('any')
 url="https://github.com/tlsfuzzer/python-ecdsa"
