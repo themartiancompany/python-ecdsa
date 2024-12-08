@@ -44,7 +44,7 @@ options=(
 )
 _pypi="https://files.pythonhosted.org/packages/source"
 source=(
-  "${_pypi}/${_pkg::0}/${_pkg}/${_pkg}-${pkgver}.tar.gz"
+  "${_pypi}/${_pkg::1}/${_pkg}/${_pkg}-${pkgver}.tar.gz"
 )
 sha512sums=(
   '7fa90c810800f453ffcdf1872f9a8448cb6081478980cc3d7f282284b4e5483c3a86dc7b1ad6c3a4f46102479e9c8493a9d16903c462383ebf09f9021c0f3217'
