@@ -1,4 +1,4 @@
-# `python-ecda`
+# `python-ecdsa`
 
 universal recipe for [user repo](../themartiancompany/ur).
 
